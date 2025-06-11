@@ -283,27 +283,27 @@
 // document.write(today);
 
 // ans 
-// var date = Date();
-// console.log(typeof date);
-//   date = new Date();
-//   console.log(typeof date);
-//   document.write(date);
-//   var onlyDate = date.getDate();
-//   console.log(onlyDate);
-//   var time = date.getHours();
-//   console.log(time);
-//   var minutes = date.getMinutes();
-//     console.log(minutes);
-//     var seconds = date.getSeconds();
-//     console.log(seconds);
-//     var miliseconds = date.getMilliseconds();
-//     console.log(miliseconds);
-//     var time = date.toLocaleTimeString();
-//     console.log(time);
-//     var dt = date.toLocaleDateString();
-//     console.log(dt);
-//     var year = date.getFullYear();
-//     console.log(year)
+ var date = Date();
+ console.log(typeof date);
+   date = new Date();
+   console.log(typeof date);
+  document.write(date);
+   var onlyDate = date.getDate();
+  console.log(onlyDate);
+   var time = date.getHours();
+   console.log(time);
+   var minutes = date.getMinutes();
+     console.log(minutes);
+     var seconds = date.getSeconds();
+     console.log(seconds);
+     var miliseconds = date.getMilliseconds();
+     console.log(miliseconds);
+     var time = date.toLocaleTimeString();
+     console.log(time);
+    var dt = date.toLocaleDateString();
+    console.log(dt);
+    var year = date.getFullYear();
+     console.log(year)
 // _____________________________________________________________________
 // ques no 28 
 // print or console today day
